@@ -31,9 +31,6 @@
     "looped"
   ],
   "license": "MIT",
-  "peerDependencies": {
-    "react-native": ">=0.16.0 <=0.17.0"
-  },
   "dependencies": {
     "react-timer-mixin": "^0.13.3"
   }
